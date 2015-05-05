@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"github.com/denisnazarov/thesaurus"
+	"github.com/denisnazarov/goblueprints/chapter4/thesaurus"
 	"log"
 	"os"
 )
